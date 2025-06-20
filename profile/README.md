@@ -19,11 +19,4 @@ Open-source. Trust-first. Zero compromises.
 
 ---
 
-<div class="flex justify-center gap-4 mt-6">
-  <a href="https://zecrypt.io" class="px-6 py-2 rounded-2xl border border-white/30 text-white backdrop-blur-md hover:bg-white/10 transition">
-    Homepage
-  </a>
-  <a href="https://app.zecrypt.io" class="px-6 py-2 rounded-2xl border border-green-400 text-green-300 backdrop-blur-md hover:bg-green-400/10 transition">
-    🚀 Launch App
-  </a>
-</div>
+[<kbd> <br> Get Started on Cloud ➜ <br> </kbd>](https://zecrypt.io) [<kbd> <br> Launch app ➜ <br> </kbd>](https://app.zecrypt.io/en/login)
