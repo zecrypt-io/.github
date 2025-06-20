@@ -19,11 +19,11 @@ Open-source. Trust-first. Zero compromises.
 
 ---
 
-<p align="center">
-  <a href="https://zecrypt.io">
-    <img src="https://img.shields.io/badge/🔙-Back%20to%20Homepage-blue?style=for-the-badge" alt="Home Button">
+<div class="flex justify-center gap-4 mt-6">
+  <a href="https://zecrypt.io" class="px-6 py-2 rounded-2xl border border-white/30 text-white backdrop-blur-md hover:bg-white/10 transition">
+    Homepage
   </a>
-  <a href="https://app.zecrypt.io">
-    <img src="https://img.shields.io/badge/🚀-Launch%20App-brightgreen?style=for-the-badge" alt="App Button">
+  <a href="https://app.zecrypt.io" class="px-6 py-2 rounded-2xl border border-green-400 text-green-300 backdrop-blur-md hover:bg-green-400/10 transition">
+    🚀 Launch App
   </a>
-</p>
+</div>
