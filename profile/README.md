@@ -1,90 +1,29 @@
-# 🧪 Zecrypt Labs – Secure by Design
+## 🧪 Zecrypt Labs — Secure by Design
 
-Welcome to **Zecret Labs**, a product-first organization dedicated to building powerful, privacy-respecting tools for modern users. Our flagship product is a fully **end-to-end encrypted password manager**, focused on security, simplicity, and open development.
+Welcome to **Zecrypt Labs** — where privacy meets simplicity. We're building powerful tools that protect your data without compromising usability.
 
-
----
-
-## 🔐 What is Zecryt Labs?
-
-**Secret Labs** is the home of our core product: a **zero-knowledge password manager** that ensures your data is **encrypted before it ever leaves your device**.
-
-- 💾 Store passwords, notes, API keys, and more
-- 🔑 End-to-end encryption with no server-side decryption
-- 🧠 Intuitive UI powered by modern web technologies
-- 💡 Designed for developers, businesses, and privacy-conscious users
+Our flagship product? A **zero-knowledge, end-to-end encrypted password manager** designed for developers, teams, and privacy-first users.
 
 ---
 
-## 🚀 Technology Stack
+### 🔐 Why Zecrypt?
 
-Our infrastructure and product are built using a modern, high-performance stack:
+At **Zecrypt Labs**, your secrets stay yours — always.
 
-| Layer         | Tech Used                     |
-|---------------|-------------------------------|
-| Backend       | **FastAPI** + **MongoDB** + **Redis** |
-| Frontend      | **Next.js** (React Framework) |
-| Real-time     | WebSockets, Background Workers |
-| Cloud Infra   | **DigitalOcean**              |
-| Security      | AES-GCM, JWT, 2FA-ready |
-| DevOps        | Docker, Vercel Actions |
+- 💾 Securely store passwords, notes, API keys, and more  
+- 🔒 Client-side encryption — **we can’t see your data**  
+- ⚡ Built for speed with a modern, intuitive interface  
+- 👨‍💻 Tailored for devs, teams, and privacy enthusiasts  
+
+Open-source. Trust-first. Zero compromises.
 
 ---
 
-## 🧰 Features
-
-- ✅ End-to-end encrypted storage (zero knowledge architecture)
-- 🔐 Client-side encryption of all sensitive data
-- 📱 Multi-device sync with per-device encryption keys
-- 🧑‍🤝‍🧑 Project sharing with PIN-secured access
-- 🧪 Open-source cryptographic core
-- 📁 Encrypted drive support for secure file storage (coming soon)
-- 🔄 Offline-first design with sync engine (Coming soon)
-
-
----
-
-## 🏗️ Built With Purpose
-
-> “Security is not a feature. It’s a foundation.”
-
-We believe tools should **respect user autonomy**. That’s why we don’t — and can’t — access your data. Your vault is only readable by you. Period.
-
----
-
-## 🌐 Live Environment
-
-| Service        | URL                                     |
-|----------------|------------------------------------------|
-| Main App       | [app.zecrypt.io](https://app.zecrypt.io) |
-| Home           | [zecrypt.io](https://zecrypt.io) |
-| Status         | [zecrypt.openstatus.dev](https://zecrypt.openstatus.dev) |
-
----
-
-## 🛠️ Projects Under Secret Labs
-
-- [`Zecrypt Labs - api`](https://github.com/zecrypt-io/zecrypt-server/tree/main/packages/backend-server) – FastAPI backend
-- [`Zecrypt Labs - web`](https://github.com/zecrypt-io/zecrypt-server/tree/main/packages/frontend-web) – Next.js frontend
-
----
-
-## 📦 Our Philosophy
-
-- 🔓 **Open Security**: Our encryption libraries and core logic are open source
-- 🧩 **Modular**: Built to support plugins and extensions (like browser integrations)
-- 🧠 **User-first**: Everything is crafted with UX and privacy in mind
-- 💬 **Community Driven**: We value contributors and feedback
-
----
-
-## 🤝 Contributing
-
-We welcome contributions and collaborators! Clone the repo and get started
-
-```bash
-# Clone the repository
-git clone https://github.com/zecrypt-io/zecrypt-server/
-
-
-
+<p align="center">
+  <a href="https://zecrypt.io">
+    <img src="https://img.shields.io/badge/🔙-Back%20to%20Homepage-blue?style=for-the-badge" alt="Home Button">
+  </a>
+  <a href="https://app.zecrypt.io">
+    <img src="https://img.shields.io/badge/🚀-Launch%20App-brightgreen?style=for-the-badge" alt="App Button">
+  </a>
+</p>
